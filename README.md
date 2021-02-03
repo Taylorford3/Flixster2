@@ -20,8 +20,9 @@
 ### App Walkthough GIF
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/zIjGAwN"  ><a href="//imgur.com/a/zIjGAwN">Flixster2</a></blockquote>
+<video width="320" height="240" autoplay>
 <source src="//s.imgur.com/min/embed.js" charset="utf-8">
-
+</video>
 
 ### Notes
 
