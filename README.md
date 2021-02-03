@@ -20,7 +20,7 @@
 ### App Walkthough GIF
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/zIjGAwN"  ><a href="//imgur.com/a/zIjGAwN">Flixster2</a></blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8">
+<source src="//s.imgur.com/min/embed.js" charset="utf-8">
 
 
 ### Notes
